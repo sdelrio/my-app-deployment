@@ -9,5 +9,5 @@ spec:
       imagePullPolicy: IfNotPresent
       env:
       - name: GREETING
-        value: "Hello world 6"
+        value: "Hello world 7"
 
