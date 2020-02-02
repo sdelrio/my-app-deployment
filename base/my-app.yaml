@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
     - name: main
-      image: gitopsworkshop/my-app:v2
+      image: gitopsworkshop/my-app:v1
       imagePullPolicy: IfNotPresent
       env:
       - name: GREETING
